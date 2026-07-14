@@ -34,6 +34,5 @@ A menu-driven console app for managing multiple bank accounts — create account
 
 ## Possible future improvements
 
-- Add an `else` branch to the withdraw option for when no accounts exist yet (currently only the deposit option handles this case)
 - Support multi-word account names (current regex rejects spaces)
 - Add account lookup by name instead of only by list position
